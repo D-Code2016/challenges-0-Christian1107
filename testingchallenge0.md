@@ -14,7 +14,7 @@ To complete this challenge you will need to add the solution to this file. To ad
 
 
 **Solution End**
-
+Upon opening up the app i expected the button to long me into my account instead the button did nothing but keep me on the same page.
 
 **Challenge Submission**
 When you've completed the challenge submit your solution by:
