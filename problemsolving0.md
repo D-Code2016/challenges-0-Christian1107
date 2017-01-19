@@ -10,7 +10,8 @@ Write the step by step instructions for organizing the "colored legos" so that a
 [B] [Y] [B] [Y] [Y] [B]
 
 **ENTER YOUR SOLUTION HERE***
-
+1.move the last B in front of the first
+2.move the first Y in the list to the end
 
 **Solution End**
 
